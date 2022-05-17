@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+ 
+h1{
+    color: rgb(68, 68, 189);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    size: 50px;
+    text-align: center;
+}
+    
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+
+}
+
+iframe{
+    margin: 0;
+    padding: 0;
+    border: none;
+    width: overflow;
+    height: overflow;
+    scroll-behavior: page;
+
+}
+button{
+    background-color:rgb(68, 68, 189);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: fit-content;
+    width: fit-content;
+    border: .2px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+
